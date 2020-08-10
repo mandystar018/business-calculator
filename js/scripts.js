@@ -1,4 +1,4 @@
-/*function add(number1, number2) {
+function add(number1, number2) {
 	return number1 + number2;
 }
 
@@ -8,7 +8,8 @@ const result = add(number1, number2);
 
 alert(result);
 
-*/
+
+
 
 function temperatureConvert() {
   const farenheit = parseInt(prompt("Enter a temperature in Farenheit: "));
